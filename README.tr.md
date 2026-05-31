@@ -232,4 +232,4 @@ Sharp focus across entire object. Square aspect ratio, 1:1.
 
 ---
 
-*Pipeline: [@shekerFND](https://github.com/shekerFND) · ASABEES / ESTÜ Robotik & Yapay Zeka*
+*Pipeline: [@abdullaheker1](https://github.com/abdullaheker1) · ASABEES / ESTÜ Robotik & Yapay Zeka*
