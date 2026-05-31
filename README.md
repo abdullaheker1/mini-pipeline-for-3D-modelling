@@ -104,7 +104,7 @@ Photorealistic render style.
 ## Step 2 — Run Hunyuan3D 2.x
 
 > [!TIP]
-> **No GPU? No problem.** You can try Hunyuan3D directly in your browser via the official demo at [3d.hunyuan.tencent.com](https://3d.hunyuan.tencent.com) — no installation required. Local setup below is for batch use, scripting, or offline workflows.
+> **No GPU? No problem.** You can try Hunyuan3D directly in your browser via the official demo at [3d.hunyuan.tencent.com](https://3d.hunyuanglobal.com/) — no installation required. Local setup below is for batch use, scripting, or offline workflows.
 
 ### Installation
 
