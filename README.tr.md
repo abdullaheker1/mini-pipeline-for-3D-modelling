@@ -105,7 +105,7 @@ Photorealistic render style.
 ## Adım 2 — Hunyuan3D 2.x'i Çalıştır
 
 > [!TIP]
-> **GPU'n yok mu? Sorun değil.** Hunyuan3D'yi kurulum yapmadan doğrudan tarayıcı üzerinden deneyebilirsin: [3d.hunyuan.tencent.com](https://3d.hunyuan.tencent.com) — resmi demo sitesi. Aşağıdaki yerel kurulum; toplu kullanım, script entegrasyonu veya çevrimdışı iş akışları içindir.
+> **GPU'n yok mu? Sorun değil.** Hunyuan3D'yi kurulum yapmadan doğrudan tarayıcı üzerinden deneyebilirsin: [3d.hunyuan.tencent.com](https://3d.hunyuanglobal.com/) — resmi demo sitesi. Aşağıdaki yerel kurulum; toplu kullanım, script entegrasyonu veya çevrimdışı iş akışları içindir.
 
 ### Kurulum
 
