@@ -231,4 +231,4 @@ Sharp focus across entire object. Square aspect ratio, 1:1.
 
 ---
 
-*Pipeline by [@shekerFND](https://github.com/shekerFND) · ASABEES / ESTÜ Robotics & AI*
+*Pipeline by [@abdullaheker1](https://github.com/abdullaheker1) · ASABEES / ESTÜ Robotics & AI*
